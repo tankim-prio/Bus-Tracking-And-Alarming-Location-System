@@ -35,7 +35,6 @@ Unlike standard point-to-point transit applications (e.g., Uber, Pathao), BTALS 
 The ecosystem relies on a highly scalable, decoupled architecture to handle concurrent mobile users and continuous IoT data streams.
 
 ### Data Flow & Entity Relationships
-*(Note: Replace placeholder images with your actual DFD and ER diagrams)*
 
 ![Level 1 Data Flow Diagram](docs/dfd/dfd.jpeg)
 > **Figure 1:** Level 1 DFD illustrating the asynchronous flow of GPS coordinates from hardware nodes to the Firebase Realtime Database, and the subsequent push notifications to client devices.
