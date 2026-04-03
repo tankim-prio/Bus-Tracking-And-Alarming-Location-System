@@ -1,4 +1,4 @@
-# BusConnect: IoT-Integrated Bus_Tracking_And_Alarming_Location_System
+# BusConnect: IoT Integrated Bus Tracking And Alarming Location System
 
 [![Flutter](https://img.shields.io/badge/Frontend-Flutter_3.0-02569B?style=flat&logo=flutter)](https://flutter.dev/)
 [![Node.js](https://img.shields.io/badge/Backend-Node.js_16+-339933?style=flat&logo=nodedotjs)](https://nodejs.org/)
