@@ -1,7 +1,4 @@
-# Bus_Tracking_And_Alarming_Location_System
-An intelligent transit logistics system featuring real-time GPS tracking and geofence-triggered proximity alarms.
-
-# BusConnect: IoT-Integrated Bus Tracking & Alarming System
+# BusConnect: IoT-Integrated Bus_Tracking_And_Alarming_Location_System
 
 [![Flutter](https://img.shields.io/badge/Frontend-Flutter_3.0-02569B?style=flat&logo=flutter)](https://flutter.dev/)
 [![Node.js](https://img.shields.io/badge/Backend-Node.js_16+-339933?style=flat&logo=nodedotjs)](https://nodejs.org/)
@@ -9,7 +6,7 @@ An intelligent transit logistics system featuring real-time GPS tracking and geo
 [![IoT](https://img.shields.io/badge/Hardware-NEO--6M_GPS%20%7C%20GSM-lightgrey)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-> A full-stack, distributed public transit ecosystem engineered to optimize long-distance travel. By bridging physical vehicle telemetry with a cross-platform mobile application, this system introduces real-time tracking, a dynamic bid-based pricing marketplace, and predictive routing optimizations.
+> An intelligent transit logistics system featuring real-time GPS tracking and geofence-triggered proximity alarms. A full-stack, distributed public transit ecosystem engineered to optimize long-distance travel. By bridging physical vehicle telemetry with a cross-platform mobile application, this system introduces real-time tracking, a dynamic bid-based pricing marketplace, and predictive routing optimizations.
 
 ## Table of Contents
 - [Core Technical Innovations](#-core-technical-innovations)
